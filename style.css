@@ -1,0 +1,57 @@
+.navbar-brand {
+  font-size: 2rem;
+  font-family: "Lobster", cursive;
+  color: black;
+}
+
+.navbar-brand:hover {
+  color: black;
+}
+
+.nav-link {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: "Lobster", cursive;
+  font-family: "Prompt", sans-serif;
+  color: black;
+  text-transform: uppercase;
+}
+.nav-link:hover {
+  color: black;
+}
+
+.main {
+  background: url("./foto_produk/y.jpg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: 50% 50%;
+  width: 100%;
+}
+
+.main h1 {
+  font-size: 4rem;
+  font-weight: 700;
+}
+.btn {
+  height: 40px;
+  width: 45%;
+  border: none;
+  outline: none;
+  background-color: rgb(203, 33, 209);
+  color: white;
+  font-weight: 700;
+}
+
+.btn:hover {
+  background-color: rgb(168, 35, 168);
+  transition: 0.5s;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
